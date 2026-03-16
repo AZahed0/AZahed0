@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&width=600&lines=Van+data+naar+inzicht+%F0%9F%97%BA%EF%B8%8F;Digitale+werelden+bouwen+%F0%9F%8C%8D;Kaarten+die+verhalen+vertellen+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
+## 🎓 **Opleiding**
+**Master in Cartografie en Geoinformatica**  
+🏛️ Eötvös Loránd University – Boedapest, Hongarije
+
+---
 
 ## 📫 **Laten we verbinden!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/ahmad-noureddin-zahed-b8506b195)

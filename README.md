@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hoi, ik ben Ahmad Zahed</h1>
-<h3 align="center">🛰️ GIS Specialist | Cartograaf | Digital Twin Professional | Topografisch Ingenieur 🇳🇱</h3>
+<h3 align="center">🛰️ GIS Specialist | Cartograaf | Digital Twin </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&width=600&lines=Van+data+naar+inzicht+%F0%9F%97%BA%EF%B8%8F;Digitale+werelden+bouwen+%F0%9F%8C%8D;Kaarten+die+verhalen+vertellen+%F0%9F%93%88" alt="Typing SVG" />
@@ -43,7 +43,7 @@ Ik ben een gedreven GIS-analist en cartograaf met een passie voor het vertalen v
 ---
 
 ## 🎓 **Opleiding**
-**Master in Cartografie en Geoinformatica** *(Uitmuntend)*  
+**Master in Cartografie en Geoinformatica**  
 🏛️ Eötvös Loránd University – Boedapest, Hongarije
 
 ---
